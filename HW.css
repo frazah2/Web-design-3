@@ -1,0 +1,54 @@
+body, html {
+    height: 100%; 
+    margin: 0;
+    font-family:  Helvetica, sans-serif}
+    * {
+        box-sizing: border-box;
+      }
+.bgim::before {
+    content: "";
+    display: block;
+    
+    width: 100%;
+    height: 100%;
+    background-color: rgba(4, 44, 47, 0.7)}
+.bgim {
+background-image: url(https://media.oregonlive.com/happy_valley_news/photo/happy-valley-classroom-sizejpg-ff12355f1242eba3.jpg);
+background-size: cover;float: left;
+background-repeat: no-repeat; height: 100%;width: 100%;
+}
+.top {
+width: 100%;height: 50px;position: absolute;top: 0%;
+    
+}
+i {
+    margin-right: 5px;margin-top: 5px;color: rgb(169, 168, 168);margin-left: 15px;
+}
+.fa-map-marker{
+    margin-left: 40px;
+}
+.lefttop{
+   margin-top: -3px;color: rgb(169, 168, 168);width: 250px;height: 50px;box-sizing: border-box;float: right;
+    
+}
+pre{
+    font-family:  Helvetica
+}
+.leffft {
+    float: left;width:500px ;margin-top: 10px;
+}
+.full {
+    width: 100%;height: 100%;
+}
+hr {
+    position: absolute;top: 5%;width: 100%;
+}
+.sectop{
+    
+}
+.sectop{
+    
+}
+.char {
+    font-size: 50px;position: absolute;top: 8%;left:2%;font-weight: 600;color: #d17112;
+}
